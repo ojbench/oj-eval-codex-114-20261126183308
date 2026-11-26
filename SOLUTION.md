@@ -24,3 +24,13 @@ g++ -std=c++11 -O2 -Wall -Wextra -pedantic tests/vector_test.cpp -o /tmp/vector_
 
 The supplied submission client was repaired to implement the `submit_code`
 method already called by its command-line interface.
+
+## Judge result
+
+- Submission: 879607 (C++, problem 1728)
+- Result: Accepted, 100/100; both test points accepted.
+- Valid submissions used: 1 of 5.
+- Submitted solution commit: 575fe2867d26d0f05d54bb2b6797d65f29c4d23c.
+- The POST response timed out, but the submission ID was recovered from the
+  judge's submission list and checked using the client's status command.
+- Optimized and AddressSanitizer/UndefinedBehaviorSanitizer local tests passed.
